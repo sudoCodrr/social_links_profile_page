@@ -24,8 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Live Site URL: https://sudocodrr.github.io/social_links_profile_page/
 
 ### Built with
 
